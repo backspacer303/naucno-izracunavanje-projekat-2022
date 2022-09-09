@@ -8,7 +8,7 @@ Poenta ovog rada je da se podaci o Sunčevom zračenju koriste za predikciju po�
 ## Podaci
 Rad koristi podatke koji su rezultati merenja Sunčevog zračenja.  Podaci su preuzeti sa sajta https://sohoftp.nascom.nasa.gov/sdb/goes/ace/daily/ koji su prosledile kolege sa Geografskog Instituta "Jovan Cvijić", Srpska akademija nauka i umetnosti. Podaci o poplavama su uzeti većinom sa sajta kaggle: https://www.kaggle.com/datasets/tomkowski/european-past-floods?resource=download. Deo podataka o poplavama je dobijen sa Geografskog Instituta "Jovan Cvijić".
 
-Svi podaci zajedno se mogu preuzeti [TDOD:ovde]().
+Svi podaci zajedno se mogu preuzeti [ovde](https://drive.google.com/file/d/1Kop0320shQJ_uoGm7vde3EAeEHcvFVoi/view?usp=sharing).
 
 ## Literatura
 - Projekat prati koncepte iz naučnog rada *"A Symbolic Fourier Approximation and Index for
