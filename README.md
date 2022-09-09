@@ -17,6 +17,9 @@ Similarity Search in High Dimensional Datasets"*, Patrick Schäfer, Mikael Högq
   - https://openproceedings.org/2012/conf/edbt/SchaferH12.pdf
 
 ## Podešavanje okruženja
+
+Paketi potrebni za pokretanje projekta:
+
 - `pyts` paket za obradu i klasifikaciju vremenskih serija 
     
     ```bash
@@ -24,7 +27,7 @@ Similarity Search in High Dimensional Datasets"*, Patrick Schäfer, Mikael Högq
     ## ili
     conda install -c conda-forge pyts
     ```
-- `pygtrie`
+- `pygtrie` paket korišćen za formiranje sufiksnog stabla
   ```
   pip install pygtrie
   ```
@@ -50,13 +53,13 @@ Similarity Search in High Dimensional Datasets"*, Patrick Schäfer, Mikael Högq
   ## ili
   conda install matplotlib
   ```
-- `altair`
+- `altair` paket korišćen za vizelizaciju
   ```bash
   pip install altair
   ## ili
   conda install -c conda-forge altair
   ```
-- `nltk`
+- `nltk` paket korišćen samo za edit rastojanje (Levenshtein-ovo rastojanje)
   ```
   pip install nltk
   ```
