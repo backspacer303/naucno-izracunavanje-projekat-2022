@@ -1,0 +1,7 @@
+;precision    ;recall;  f1-score;   support;
+       False ;0.87      ;0.38      ;0.53      ;878;
+        True ;0.16      ;0.68      ;0.26      ;156;
+;;;;;
+    accuracy ;          ;          ;0.43      ;1034;
+   macro avg ;0.52      ;0.53      ;0.40      ;1034;
+weighted avg ;0.76      ;0.43      ;0.49      ;1034;
